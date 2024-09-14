@@ -1,0 +1,4 @@
+cloud computing is a pay as use service 
+that provides softwares on cloud remotely.
+cloud provides clients with services remotely without the ned for 
+dealing with the installations or maintainenece of softwares
